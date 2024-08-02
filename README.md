@@ -65,4 +65,4 @@ For the Variables of the loan_data.
 
 - Online- Does the customer use internet banking facilities?
 
-CreditCard- Does the customer use a credit card issued by the bank?
+- CreditCard- Does the customer use a credit card issued by the bank?
